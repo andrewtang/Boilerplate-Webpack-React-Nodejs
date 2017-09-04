@@ -20,7 +20,7 @@ Static website boilterplate project template built using Webpack.
 
 ----
 
-Build the client files dist folder 
+Build the client files dist folder
 ```sh
 # For dev ->
 npm run build:dev
@@ -36,5 +36,5 @@ Start the server
 npm run start
 ```
 
-## License
+#### License
 [MIT](LICENSE)
